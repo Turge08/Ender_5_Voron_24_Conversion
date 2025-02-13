@@ -56,7 +56,7 @@ I also added the following mods:
 
 - Print Area - Depending on the bed size, you will lose some print area on the Y axis along with Z. My current print area with the standard 250mm bed is currently 250 mm x 210 mm x 210mm. Z can be a bit taller without the kinematic mounts.
 - If you want to enclose the printer, you will need have your own deck acrylic panel cut. The DXF is included. You can also order a set of Voron 2.4 250mm panels and trim 20mm at each corner to ensure the Z belts can clear the panel.
-- There are many other conversions that are much easier and cheaper and may make more sense to you (eg. Mercury One, Voron Trident)
+- There are many other conversions that are much easier and cheaper and may make more sense to you (eg. <a href="https://docs.zerog.one/manual/build/mercury_eva">Zero G Mercury One</a>, <a href="https://vorondesign.com/voron_trident">Voron Trident</a>, etc)
 
 ## How?
 

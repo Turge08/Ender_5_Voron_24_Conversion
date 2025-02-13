@@ -53,7 +53,7 @@ I also added the following mods:
 ## Disclaimer
 
 - Print Area - Depending on the bed size, you will lose some print area on the Y axis along with Z. My current print area with the standard 250mm bed is currently 250 mm x 210 mm x 210mm. Z can be a bit taller without the kinematic mounts.
-- If you want to enclose the printer, you will need have your own deck and back acrylic panels cut. The DXFs are included.
+- If you want to enclose the printer, you will need have your own deck acrylic panel cut. The DXF is included. You can also order a set of Voron 2.4 250mm panels and trim 20mm at each corner to ensure the Z belts can clear the panel.
 - There are many other conversions that are much easier and cheaper and may make more sense to you (eg. Mercury One, Voron Trident)
 
 ## How?

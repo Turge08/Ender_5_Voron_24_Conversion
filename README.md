@@ -4,6 +4,8 @@
 
 A few years ago, I converted my Ender 5 to a Voron 2.4. Since posting it to <a href="https://www.reddit.com/r/ender5/comments/p8z4o2/comment/mcerxhc/?context=3">Reddit</a>, I have received several requests for more info (mainly the STLs I modified to accommodate the 4020 vertical extrusions).
 
+![Image 1](Images/1.jpg)
+
 ## But Why?
 
 My reason for the conversion was simple. I wanted:

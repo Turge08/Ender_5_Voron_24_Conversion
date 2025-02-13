@@ -1,4 +1,4 @@
-# Ender 5 to Voron 2.4 Conversion
+# Ender 5 (STD/PRO) to Voron 2.4 Conversion
 
 ## Summary
 

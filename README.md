@@ -37,17 +37,19 @@ I eventually replaced:
 
 At this point, the printer also consists of:
 
-- XOL toolhead with Vz-Hextrudort, Phaetus Rapido 2 and Mellow Fly-SHT36 Can Bus toolhead PCB
+- <a href="https://github.com/Armchair-Heavy-Industries/Xol-Toolhead">XOL toolhead</a> with Vz-Hextrudort, Phaetus Rapido 2 and Mellow Fly-SHT36 Can Bus toolhead PCB
 - 48V PSU and 5160 Pro drivers
 - Titanium extrusion backers
 - Pi Cam
-- Kinematic Bed Mounts
+- <a href="https://github.com/tanaes/whopping_Voron_mods/blob/main/kinematic_bed/README_v2_assembly.md">Kinematic Bed Mounts</a>
+- Opaque panels wrapped in brushed metal and clear panels tinted
+- KlipperScreen using 4.3" Waveshare DSI screen
 
 I also added the following mods:
 
-- Ramalama Front Idlers
-- Pins Mod
-- Nevermore carbon filter
+- <a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers">Ramalama Front Idlers</a>
+- <a href="https://mods.vorondesign.com/details/C8XJJ0fBGfBFKQZctjKeA">Pins Mod</a>
+- <a href="https://github.com/nevermore3d/Nevermore_Micro">Nevermore carbon filter</a>
 - Chamber LEDs
 
 ## Disclaimer
